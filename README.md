@@ -6,3 +6,5 @@
 ## My Skills
 <img src='https://img.shields.io/badge/Front_End-Developer-purple' />
 
+## Languages
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AREZ&layout=pie' />
