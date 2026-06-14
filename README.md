@@ -1,3 +1,7 @@
+<html>
+<head>
+<style>
+
 marquee{
  font-family:tahoma;
  width: 100%;
@@ -6,9 +10,17 @@ marquee{
  color: #fff;
  text-align:center;
 }
-<marquee>
-Hi welcome to my githab ' I'm Amir AREZ
+
+</style>
+</head>
+<body>
+
+<marquee behavior="alternate" scrollamount="20">
+Hi
 </marquee>
+
+</body>
+</html>
 
 ## My Activities
 <img src='https://github-readme-stats.vercel.app/api?username=Mr-AREZ&show_icons=true&theme=radical' />
