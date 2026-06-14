@@ -1,26 +1,12 @@
-<html>
-<head>
-<style>
-
-marquee{
- font-family:tahoma;
+<marquee style=' font-family:tahoma;
  width: 100%;
  padding: 10px 0;
  background-color: #0688e7;
  color: #fff;
- text-align:center;
-}
-
-</style>
-</head>
-<body>
-
-<marquee behavior="alternate" scrollamount="20">
+ text-align:center;' behavior="alternate" scrollamount="20">
 Hi
 </marquee>
 
-</body>
-</html>
 
 ## My Activities
 <img src='https://github-readme-stats.vercel.app/api?username=Mr-AREZ&show_icons=true&theme=radical' />
