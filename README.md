@@ -1,4 +1,4 @@
-## const AREZ = {
+const AREZ = {
     isActive : true ,
     firstName : 'Amirreza' ,
     lastName : 'Arezoumand' ,
