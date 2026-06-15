@@ -7,6 +7,7 @@
     birth : '2003' ,
     text : 'I will do my best for my faith' ,
 };
+
 <img src='https://img.shields.io/badge/Front_End-Developer-purple' /> <img src='https://img.shields.io/badge/SEO-Manager-purple' />
 
 ## My Activities
