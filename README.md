@@ -11,5 +11,5 @@
 <img src='https://img.shields.io/badge/Front_End-Developer-purple' /> <img src='https://img.shields.io/badge/SEO-Manager-purple' />
 
 ## My Activities
-<img src='https://github-readme-stats.vercel.app/api?username=Mr-AREZ&show_icons=true&theme=radical' /> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical' />
+<img src='https://github-readme-stats.vercel.app/api?username=Mr-AREZ&show_icons=true&theme=radical' /> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie' />
 
