@@ -1,13 +1,21 @@
-## const AREZ = {
-    isActive : true ,
-    firstName : 'Amirreza' ,
-    lastName : 'Arezoumand' ,
-    nickName : 'AREZ' ,
-    profession : 'Developer' ,
-    birth : '2003' ,
-    text : 'I will do my best for my faith' ,
-};
+```diff
+const AREZ = {id:7, fullname:'Amirreza Arezoumand', nickname:'AREZ', birth:2003, homeland:'IRAN'};
 
++ const javaScript = () => true ;
+
+- const backend = () => true ;
+
++ const seo = () => true ;
+
+- const mernStack = () => true ;
+
++ const html = () => true ;
+
+- const python = () => true ;
+
++ const css = () => true ;
+
+```
 <img src='https://img.shields.io/badge/Front_End-Developer-purple' /> <img src='https://img.shields.io/badge/SEO-Manager-purple' />
 
 ## My Activities
