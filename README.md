@@ -1,12 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:001219,30:005F73,70:0A9396,100:94D2BD&text=AREZ&fontSize=75&fontColor=E9F5F9&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,14,18,20,24&text=AREZ&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=94D2BD&center=true&vCenter=true&width=700&lines=+Building+Modern+Web+Experiences;⚡+JavaScript+Enthusiast;🚀+Frontend+Developer;💎+Clean+Code+%26+Creative+UI" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Building+modern+interfaces;Creating+fast+and+responsive+experiences;JavaScript+Developer" />
 
 </div>
+
+<br>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-Arez)
+
+
 
 ---
 
