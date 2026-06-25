@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,14,18,20,24&text=AREZ&fontSize=80&fontColor=000000&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:001219,30:005F73,70:0A9396,100:94D2BD&text=AREZ&fontSize=80&fontColor=000000&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58"/>
 
 </div>
 
@@ -42,18 +42,28 @@
 
 
 ```javascript
-const arez = {
-    role: "Frontend Developer",
-    language: "JavaScript",
-    focus: [
-       "Responsive Design",
-       "Modern UI",
-       "Performance Optimization",
-       "User Experience"
-    ],
-    currentStatus: "Learning something new     every day"
-}
+const arez = {role: "FrontendDeveloper",language: "JavaScript",focus: ["Responsive Design","Modern UI","PerformanceOptimization","User Experience"],currentStatus: "Learning something new     every day"}
 ```
+
+<div align="center">
+
+| Frontend | Styling | Tools |
+|-----------|----------|---------|
+| JavaScript | CSS3 | Git |
+| HTML5 | Responsive Design | GitHub |
+| React | UI Development | VS Code |
+
+</div>
+
+# Current Goals
+
+- Build modern web applications
+- Improve frontend architecture skills
+- Create smooth user experiences
+- Contribute to open source projects
+- Learn advanced React patterns
+
+
 I enjoy transforming ideas into beautiful, responsive and interactive web experiences.
 
 <br>
@@ -69,28 +79,6 @@ I enjoy transforming ideas into beautiful, responsive and interactive web experi
 
 </div>
 
-
-<div align="center">
-
-| Frontend | Styling | Tools |
-|-----------|----------|---------|
-| JavaScript | CSS3 | Git |
-| HTML5 | Responsive Design | GitHub |
-| React | UI Development | VS Code |
-
-</div>
-
----
-
-# Current Goals
-
-- Build modern web applications
-- Improve frontend architecture skills
-- Create smooth user experiences
-- Contribute to open source projects
-- Learn advanced React patterns
-
----
 
 # Quote
 
