@@ -23,9 +23,14 @@
 
 </div>
 
----
+<div align="center">
 
- ..THIS IS MY LOVE..
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mr-AREZ&show_icons=true&theme=transparent&hide_border=true&title_color=94D2BD&icon_color=0A9396&text_color=E9F5F9"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AREZ&layout=compact&theme=transparent&hide_border=true&title_color=94D2BD&text_color=E9F5F9"/>
+
+</div>
+
 ```javascript
 const arez = {
     role: "Frontend Developer",
@@ -39,7 +44,6 @@ const arez = {
     currentStatus: "Learning something new     every day"
 }
 ```
-
 I enjoy transforming ideas into beautiful, responsive and interactive web experiences.
 
 <br>
@@ -51,18 +55,6 @@ I enjoy transforming ideas into beautiful, responsive and interactive web experi
 | JavaScript | CSS3 | Git |
 | HTML5 | Responsive Design | GitHub |
 | React | UI Development | VS Code |
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mr-AREZ&show_icons=true&theme=transparent&hide_border=true&title_color=94D2BD&icon_color=0A9396&text_color=E9F5F9"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AREZ&layout=compact&theme=transparent&hide_border=true&title_color=94D2BD&text_color=E9F5F9"/>
 
 </div>
 
