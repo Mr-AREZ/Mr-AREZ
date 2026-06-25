@@ -60,9 +60,9 @@ I enjoy transforming ideas into beautiful, responsive and interactive web experi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mr-Arez&show_icons=true&theme=transparent&hide_border=true&title_color=94D2BD&icon_color=0A9396&text_color=E9F5F9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mr-AREZ&show_icons=true&theme=transparent&hide_border=true&title_color=94D2BD&icon_color=0A9396&text_color=E9F5F9"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Arez&layout=compact&theme=transparent&hide_border=true&title_color=94D2BD&text_color=E9F5F9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AREZ&layout=compact&theme=transparent&hide_border=true&title_color=94D2BD&text_color=E9F5F9"/>
 
 </div>
 
@@ -72,7 +72,7 @@ I enjoy transforming ideas into beautiful, responsive and interactive web experi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-Arez&theme=react-dark&hide_border=true&bg_color=0D1117&color=94D2BD&line=0A9396&point=E9F5F9" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-AREZ&theme=react-dark&hide_border=true&bg_color=0D1117&color=94D2BD&line=0A9396&point=E9F5F9" />
 
 </div>
 
@@ -92,7 +92,7 @@ I enjoy transforming ideas into beautiful, responsive and interactive web experi
 
 <div align="center">
 
-<a href="https://github.com/Mr-Arez">
+<a href="https://github.com/Mr-AREZ">
   <img src="https://img.shields.io/badge/GitHub-001219?style=for-the-badge&logo=github&logoColor=94D2BD"/>
 </a>
 
@@ -109,7 +109,7 @@ I enjoy transforming ideas into beautiful, responsive and interactive web experi
 <div align="center">
 
 
-<img src="https://komarev.com/ghpvc/?username=Mr-Arez&label=Ocean+Visitors&color=0A9396&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Mr-AREZ&label=Ocean+Visitors&color=0A9396&style=for-the-badge" />
 
 </div>
 
