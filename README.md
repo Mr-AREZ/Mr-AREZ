@@ -15,14 +15,19 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-AREZ&theme=react-dark&hide_border=true&bg_color=0D1117&color=94D2BD&line=0A9396&point=E9F5F9" />
 
-<div align="center">
+<br>
 
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Mr-AREZ&label=Developer&color=0A9396&style=for-the-badge" />
 
 </div>
 
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:001219,30:005F73,70:0A9396,100:94D2BD"/>
+
+
 
 
 <div align="center">
@@ -31,6 +36,7 @@
 
 </div>
 
+<br>
 
 <div align="center">
 
@@ -40,6 +46,7 @@
 
 </div>
 
+<br>
 
 ```javascript
 const mrArez = {fullname: "AmirrezaArezoumand",nickname: "AREZ",birth: "2003" roles: ["programmer","realEstateAgent","fitness"]}
@@ -58,6 +65,8 @@ const mrArez = {fullname: "AmirrezaArezoumand",nickname: "AREZ",birth: "2003" ro
 ```javascript
 const arezDeveloper = {role: "FrontendDeveloper",language: "JavaScript",focus: ["Responsive Design","Modern UI","PerformanceOptimization","User Experience"],currentStatus: "Learning something new     every day"}
 ```
+
+
 
 # Current Goals
 
