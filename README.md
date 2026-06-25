@@ -46,7 +46,9 @@
 
 </div>
 
-<br>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
 
 ```javascript
 const mrArez = {fullname: "AmirrezaArezoumand",nickname: "AREZ",birth: "2003" roles: ["programmer","realEstateAgent","fitness"]}
@@ -84,6 +86,7 @@ I enjoy transforming ideas into beautiful, responsive and interactive web experi
 
 </div>
 
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=32&pause=1000&color=5EEAD4&center=true&vCenter=true&width=850&lines=Most+Used+Languages;Mr-AREZ;Clean+Code+%7C+Creative+Mind+%7C+Open+Source"/>
@@ -93,6 +96,10 @@ I enjoy transforming ideas into beautiful, responsive and interactive web experi
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:5EEAD4,50:60A5FA,100:5EEAD4&section=footer"/>
 
 </div>
+
+<div align="center">
+
+
 
 <div align="center">
 
