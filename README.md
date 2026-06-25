@@ -99,10 +99,6 @@ I enjoy transforming ideas into beautiful, responsive and interactive web experi
 
 <div align="center">
 
-
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,html,css,react,git,github,vscode,npm" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,git,github,vscode"/>
 
 </div>
