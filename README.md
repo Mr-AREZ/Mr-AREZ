@@ -54,37 +54,9 @@
 const mrArez = {fullname: "AmirrezaArezoumand",nickname: "AREZ",birth: "2003" roles: ["programmer","realEstateAgent","fitness"]}
 ```
 
-<div align="center">
-
-| Frontend | Styling | Tools |
-|-----------|----------|---------|
-| JavaScript | CSS3 | Git |
-| HTML5 | Responsive Design | GitHub |
-| React | UI Development | VS Code |
-
-</div>
-
 ```javascript
 const arezDeveloper = {role: "FrontendDeveloper",language: "JavaScript",focus: ["Responsive Design","Modern UI","PerformanceOptimization","User Experience"],currentStatus: "Learning something new     every day"}
 ```
-
-
-
-# Current Goals
-
-- Build modern web applications
-- Improve frontend architecture skills
-- Create smooth user experiences
-- Contribute to open source projects
-- Learn advanced React patterns
-
-
-I enjoy transforming ideas into beautiful, responsive and interactive web experiences.
-
-<br>
-
-
-</div>
 
 
 <div align="center">
@@ -100,5 +72,31 @@ I enjoy transforming ideas into beautiful, responsive and interactive web experi
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,git,github,vscode"/>
+
+</div>
+
+<div align="center">
+
+| Frontend | Styling | Tools |
+|-----------|----------|---------|
+| JavaScript | CSS3 | Git |
+| HTML5 | Responsive Design | GitHub |
+| React | UI Development | VS Code |
+
+</div>
+
+# Current Goals
+
+- Build modern web applications
+- Improve frontend architecture skills
+- Create smooth user experiences
+- Contribute to open source projects
+- Learn advanced React patterns
+
+
+I enjoy transforming ideas into beautiful, responsive and interactive web experiences.
+
+<br>
+
 
 </div>
