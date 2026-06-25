@@ -91,8 +91,3 @@ I enjoy transforming ideas into beautiful, responsive and interactive web experi
 <img src="https://skillicons.dev/icons?i=js,html,css,react,git,github,vscode,npm" />
 
 </div>
-
-
-# Quote
-
-> "Great interfaces are invisible. Users only remember how they felt."
