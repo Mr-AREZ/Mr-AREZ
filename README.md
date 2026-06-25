@@ -15,21 +15,31 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-AREZ&theme=react-dark&hide_border=true&bg_color=0D1117&color=94D2BD&line=0A9396&point=E9F5F9" />
 
-</div>
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,git,github,vscode,npm" />
+
+<img src="https://komarev.com/ghpvc/?username=Mr-AREZ&label=Developer&color=0A9396&style=for-the-badge" />
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:001219,30:005F73,70:0A9396,100:94D2BD"/>
+
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mr-AREZ&show_icons=true&theme=transparent&hide_border=true&title_color=94D2BD&icon_color=0A9396&text_color=E9F5F9"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AREZ&layout=compact&theme=transparent&hide_border=true&title_color=94D2BD&text_color=E9F5F9"/>
+</div>
+
+
+<div align="center">
+
+<a href="https://github.com/Mr-AREZ">
+  <img src="https://img.shields.io/badge/GitHub-001219?style=for-the-badge&logo=github&logoColor=94D2BD"/>
+</a>
 
 </div>
+
 
 ```javascript
 const arez = {
@@ -47,6 +57,18 @@ const arez = {
 I enjoy transforming ideas into beautiful, responsive and interactive web experiences.
 
 <br>
+
+
+</div>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AREZ&layout=compact&theme=transparent&hide_border=true&title_color=94D2BD&text_color=E9F5F9"/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,html,css,react,git,github,vscode,npm" />
+
+</div>
+
 
 <div align="center">
 
@@ -70,30 +92,6 @@ I enjoy transforming ideas into beautiful, responsive and interactive web experi
 
 ---
 
-# Connect
-
-<div align="center">
-
-<a href="https://github.com/Mr-AREZ">
-  <img src="https://img.shields.io/badge/GitHub-001219?style=for-the-badge&logo=github&logoColor=94D2BD"/>
-</a>
-
-</div>
-
----
-
 # Quote
 
 > "Great interfaces are invisible. Users only remember how they felt."
-
----
-
-<div align="center">
-
-
-<img src="https://komarev.com/ghpvc/?username=Mr-AREZ&label=Ocean+Visitors&color=0A9396&style=for-the-badge" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:001219,30:005F73,70:0A9396,100:94D2BD"/>
-
