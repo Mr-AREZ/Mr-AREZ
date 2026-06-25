@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,14,18,20,24&text=AREZ&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=Building+modern+interfaces;Creating+fast+and+responsive+experiences;JavaScript+Developer" />
-
 </div>
 
 <br>
