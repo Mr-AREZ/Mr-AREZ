@@ -8,26 +8,25 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-Arez)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=blue)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/Mr-Arez)
 
 
 
 ---
 
-# About Me
-
+ ..THIS IS MY LOVE..
 ```javascript
 const arez = {
-  role: "Frontend Developer",
-  language: "JavaScript",
-  focus: [
-    "Responsive Design",
-    "Modern UI",
-    "Performance Optimization",
-    "User Experience"
-  ],
-  currentStatus: "Learning something new every day"
+    role: "Frontend Developer",
+    language: "JavaScript",
+    focus: [
+       "Responsive Design",
+       "Modern UI",
+       "Performance Optimization",
+       "User Experience"
+    ],
+    currentStatus: "Learning something new     every day"
 }
 ```
 
