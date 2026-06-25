@@ -84,7 +84,15 @@ I enjoy transforming ideas into beautiful, responsive and interactive web experi
 
 </div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AREZ&layout=compact&theme=transparent&hide_border=true&title_color=94D2BD&text_color=E9F5F9"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=32&pause=1000&color=5EEAD4&center=true&vCenter=true&width=850&lines=Most+Used+Languages;Mr-AREZ;Clean+Code+%7C+Creative+Mind+%7C+Open+Source"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AREZ&layout=compact&theme=transparent&title_color=5EEAD4&text_color=BFDBFE&border_color=7DD3FC"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:5EEAD4,50:60A5FA,100:5EEAD4&section=footer"/>
+
+</div>
 
 <div align="center">
 
