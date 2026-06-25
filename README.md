@@ -11,7 +11,17 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=blue)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=blue)](https://github.com/Mr-Arez)
 
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-AREZ&theme=react-dark&hide_border=true&bg_color=0D1117&color=94D2BD&line=0A9396&point=E9F5F9" />
+
+</div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,html,css,react,git,github,vscode,npm" />
+
+</div>
 
 ---
 
@@ -31,16 +41,6 @@ const arez = {
 ```
 
 I enjoy transforming ideas into beautiful, responsive and interactive web experiences.
-
----
-
-# Ocean Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,html,css,react,git,github,vscode,npm" />
-
-</div>
 
 <br>
 
@@ -63,16 +63,6 @@ I enjoy transforming ideas into beautiful, responsive and interactive web experi
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mr-AREZ&show_icons=true&theme=transparent&hide_border=true&title_color=94D2BD&icon_color=0A9396&text_color=E9F5F9"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AREZ&layout=compact&theme=transparent&hide_border=true&title_color=94D2BD&text_color=E9F5F9"/>
-
-</div>
-
----
-
-# Contribution Ocean
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-AREZ&theme=react-dark&hide_border=true&bg_color=0D1117&color=94D2BD&line=0A9396&point=E9F5F9" />
 
 </div>
 
