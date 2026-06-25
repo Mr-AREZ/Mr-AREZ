@@ -42,7 +42,7 @@
 
 
 ```javascript
-const arez = {role: "FrontendDeveloper",language: "JavaScript",focus: ["Responsive Design","Modern UI","PerformanceOptimization","User Experience"],currentStatus: "Learning something new     every day"}
+const mrArez = {fullname: "AmirrezaArezoumand",nickname: "AREZ",birth: "2003" roles: ["programmer","realEstateAgent","fitness"]}
 ```
 
 <div align="center">
@@ -54,6 +54,10 @@ const arez = {role: "FrontendDeveloper",language: "JavaScript",focus: ["Responsi
 | React | UI Development | VS Code |
 
 </div>
+
+```javascript
+const arezDeveloper = {role: "FrontendDeveloper",language: "JavaScript",focus: ["Responsive Design","Modern UI","PerformanceOptimization","User Experience"],currentStatus: "Learning something new     every day"}
+```
 
 # Current Goals
 
