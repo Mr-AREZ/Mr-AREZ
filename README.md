@@ -65,7 +65,7 @@ const arezDeveloper = {role: "FrontendDeveloper",language: "JavaScript",focus: [
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-AREZ&layout=compact&theme=transparent&title_color=5EEAD4&text_color=BFDBFE&border_color=7DD3FC"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:5EEAD4,50:60A5FA,100:5EEAD4&section=footer"/>
+<img width="60%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:5EEAD4,50:60A5FA,100:5EEAD4&section=footer"/>
 
 </div>
 
@@ -75,28 +75,3 @@ const arezDeveloper = {role: "FrontendDeveloper",language: "JavaScript",focus: [
 
 </div>
 
-<div align="center">
-
-| Frontend | Styling | Tools |
-|-----------|----------|---------|
-| JavaScript | CSS3 | Git |
-| HTML5 | Responsive Design | GitHub |
-| React | UI Development | VS Code |
-
-</div>
-
-# Current Goals
-
-- Build modern web applications
-- Improve frontend architecture skills
-- Create smooth user experiences
-- Contribute to open source projects
-- Learn advanced React patterns
-
-
-I enjoy transforming ideas into beautiful, responsive and interactive web experiences.
-
-<br>
-
-
-</div>
